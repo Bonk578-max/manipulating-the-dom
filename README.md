@@ -1,11 +1,9 @@
-// Your name 
+// Bryce Mack
 
- // Date Revised: This is the last day you saved. 
+ // Date Revised: 11/18/2025 
 
- // Exercise or Lab name 
+ // Manipulating the Dom
 
- // Brief Description of what you did. 
-
- // You can add multiple dates with description.
+ // Made a few buttons using javascript that manipulates attributes on the website.
 
 // Person who Peer Reviewed your assignment
