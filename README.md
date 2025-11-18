@@ -6,4 +6,4 @@
 
  // Made a few buttons using javascript that manipulates attributes on the website.
 
-// Person who Peer Reviewed your assignment
+// Brandon Van Horn: the toggle dark mode didnt work and the image for opacity effect is missing the . before the / so its not linked properly but everything else works and looks good!
